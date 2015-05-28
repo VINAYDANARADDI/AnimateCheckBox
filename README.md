@@ -5,7 +5,7 @@ A custom view in Android with a animation when CheckBox status changed :smile:
 ![](https://img.shields.io/badge/Android-CustomView-brightgreen.svg)
 
 #todo
-thera are some problems about the interchange of two lines 
+there are some problems about the interchange of two lines 
 ---
 ![](https://github.com/hanks-zyh/AnimateCheckBox/blob/master/screen.gif)
 
